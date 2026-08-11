@@ -130,7 +130,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onNavigate }) => {
             </p>
           </div>
           <div className="pt-6 mt-6 border-t border-white/10 flex items-center justify-between font-mono text-xs text-white/50">
-            <span>React Native + Android</span>
+            <span>React Native + Java Springboot</span>
             <span className="text-[#00ff66]">Sub-50ms</span>
           </div>
         </div>
@@ -145,11 +145,11 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResume, onNavigate }) => {
               I-CERDAS PLATFORM
             </h3>
             <p className="text-sm font-light text-white/70 mt-3 leading-relaxed">
-              High-speed institutional platform reducing database CPU overhead by 75% via optimized payload design and connection pooling.
+              Cross-platform mobile application optimized for ultra-fast response times using Redis memory caching and streamlined payload design.
             </p>
           </div>
           <div className="pt-6 mt-6 border-t border-white/10 flex items-center justify-between font-mono text-xs text-white/50">
-            <span>Java Spring Boot</span>
+            <span>React Native</span>
             <span className="text-[#00ff66]">-75% DB Load</span>
           </div>
         </div>
