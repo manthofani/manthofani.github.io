@@ -145,8 +145,8 @@ export function App() {
               {renderActiveSection()}
             </div>
 
-            {/* Footer attached at bottom of page content */}
-            <Footer onNavigate={handleNavigatePage} />
+            {/* Footer attached at bottom of page content
+            <Footer onNavigate={handleNavigatePage} /> */}
           </motion.div>
         </AnimatePresence>
       </main>
